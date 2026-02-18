@@ -2,7 +2,7 @@
 - 👀 I’m interested in making Powerful Applications useful to the User
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Android and Web Applications
-- 📫 How to reach me [...](https://www.linkedin.com/in/aryan-dev01/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aryan-dev01/)
 - 😄 Pronouns: He / Him
 
 <!---
