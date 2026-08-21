@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @itsArK-27
-- 👀 I’m interested in making Powerful Applications useful to the User
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Android and Web Applications
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aryan-dev01/)
-- 😄 Pronouns: He / Him
+# Hi, I'm Aryan Kumar
 
-<!---
-itsArK-27/itsArK-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science and Engineering student, pursuing a minor in Artificial Intelligence and Machine Learning.
+
+I build practical software and learn by turning ideas into working projects. My main interests are full-stack development, AI/ML, and problem solving.
+
+## Currently working on
+
+- Full-stack web applications
+- AI/ML projects and LLM-powered tools
+- Data structures and algorithms
+
+## Tools I use
+
+`C++` `C` `Python` `Java` `JavaScript` `React` `Node.js` `Express.js` `Flask` `MySQL` `PostgreSQL` `Firebase` `Docker` `scikit-learn` `Pandas` `NumPy` `Git`
+
+## Find me online
+
+- [LinkedIn](https://linkedin.com/in/aryan-dev01/)
+- [LeetCode](https://leetcode.com/u/itsArK-27/)
+- [GitHub](https://github.com/itsArK-27/)
